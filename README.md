@@ -32,20 +32,15 @@ MORE DETAILED ANALYSIS
 
 More in-depth analysis has been performed, and the results can be found in the .csv files in this repository. A short description of the files:
 
-* List of FN frames which are covered by ESO with frequencies 
-- see fn_cov.csv
+* List of FN frames which are covered by ESO with frequencies: see fn_cov.csv
 
-* List of FN frames which are not covered by ESO with frequencies
-- see fn_uncov.csv 
+* List of FN frames which are not covered by ESO with frequencies: see fn_uncov.csv 
 
-* Frequency of the ESO classes
-- see eso.csv
+* Frequency of the ESO classes: see eso.csv
 
-* List of predicate mentions (normalized) which are not linked to FN, nor ESO, with frequencies : 
-- see new_no_fe.csv
+* List of predicate mentions (normalized) which are not linked to FN, nor ESO, with frequencies: see new_no_fe.csv
 
-* Number of total predicate mentions with no FrameNet and no ESO: 
-- see no_fe_count.csv
+* Number of total predicate mentions with no FrameNet and no ESO: see no_fe_count.csv
 
 Contact
 -------
