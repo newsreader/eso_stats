@@ -1,4 +1,4 @@
-ESO STATISTICS
+ESO Statistics
 ==============
 
 Statistics for the Events and Situations Ontology when run on 1.3 Million car articles data.
@@ -6,26 +6,26 @@ Statistics for the Events and Situations Ontology when run on 1.3 Million car ar
 PREDICATES
 ----------
 
-ESO predicates: 19.542.339
-FN_POSITIVE: 17.515.482
-FN_UNJUDGED: 51.231.916
-FN_NEGATIVE: 11.902.592
-WN predicates: 141.925.823
-VN predicates: 114.166.362
-PB predicates: 107.064.868
-TOTAL predicates: 84.877.181
+* ESO predicates: 19.542.339
+* FN_POSITIVE: 17.515.482
+* FN_UNJUDGED: 51.231.916
+* FN_NEGATIVE: 11.902.592
+* WN predicates: 141.925.823
+* VN predicates: 114.166.362
+* PB predicates: 107.064.868
+* TOTAL predicates: 84.877.181
 
 ROLES
 -----
 
-ESO roles: 19.940.244
-FN_POSITIVE roles: 20.899.385
-FN_UNJUDGED roles: 106.659.142
-FN_NEGATIVE roles: 21.023.911
-WN roles: 0
-VN roles: 138.855.701
-PB roles: 99.575.393
-TOTAL roles: 184.573.548
+* ESO roles: 19.940.244
+* FN_POSITIVE roles: 20.899.385
+* FN_UNJUDGED roles: 106.659.142
+* FN_NEGATIVE roles: 21.023.911
+* WN roles: 0
+* VN roles: 138.855.701
+* PB roles: 99.575.393
+* TOTAL roles: 184.573.548
 
 MORE DETAILED ANALYSIS
 ----------------------
